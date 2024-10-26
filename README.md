@@ -15,7 +15,7 @@ I'm an analytical thinker with a deep passion for uncovering insights from data.
 
 ### 💼 Experience
 **Market Research Intern** | B2B Sales Arrow  
-_December 2022 - April 2023_ | Kota, Rajasthan  
+_December 2023 - April 2024_ | Kota, Rajasthan  
 - Conducted in-depth data research, organization, and validation using tools like **LinkedIn Sales Navigator, Apollo, ContactOut, and ZoomInfo** to support event management and lead generation.
 - Built and managed databases for internal and client-facing purposes, delivering high-quality, accurate datasets.
 - Learned effective communication and teamwork, recognized by the team for on-time project delivery.
