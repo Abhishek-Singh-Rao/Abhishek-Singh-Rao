@@ -45,7 +45,7 @@ Key Insights:
 - Explored factors influencing customer churn to provide actionable insights for retention strategies.
 
 #### 🛍️ [Ecommerce Sales Analysis](https://github.com/Abhishek-Singh-Rao/Ecommerce-Sales-Analysis)
-- Created a Power BI dashboard to analyze sales trends, profit margins, and top-performing categories.
+- Created an Excel dashboard to analyze sales trends, profit margins, and top-performing categories.
 
 ---
 
