@@ -67,8 +67,10 @@ _2018 - 2021_ | CGPA: 8.26/10
 
 ### 🌐 Let's Connect
 - **LinkedIn**: [Abhishek Singh Rao](https://www.linkedin.com/in/abhishek-singh-rao-3370b21a1/)
-- **Portfolio**: *[paste link here]*
-- **Resume**: *[paste link here]*
+- **Portfolio**: [https://abhishek-singh-rao.github.io/abhisheksinghrao.io/](https://abhishek-singh-rao.github.io/abhisheksinghrao.io/)
+- **Resume**: [View Resume](https://drive.google.com/file/d/1TKLW5ll5eGd-30BNy8-PXP1VuNVItNa0/view?usp=sharing)
+- **Gmail**: [abhisheksinghrao0499@gmail.com](mailto:abhisheksinghrao0499@gmail.com)
+
 
 ---
 
